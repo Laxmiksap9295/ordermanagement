@@ -90,3 +90,4 @@ resources:
     service-plan: application
 parameters:
   deploy_mode: html5-repo
+
